@@ -1,0 +1,8 @@
+mtcnn==0.1.1
+opencv-python
+numpy
+matplotlib
+sklearn
+keras~=2.6.0
+Pillow==8.4.0
+tensorflow==2.6.0

@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other files
+
+./NumpyFace/extended_yale_face_B*
+./NumpyFace/ATT.npz
+./NumpyFace/5-celebrity-faces-dataset.npz
+
+./EmbeddingFace/extended_yale_face_B*
+./EmbeddingFace/ATT-embeddings.npz
+./EmbeddingFace/5-celebrity-faces-embeddings.npz
+
+./data

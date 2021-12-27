@@ -1,7 +1,7 @@
-Dataset,Total images in the databases,Total images successfully aligned,FaceNet rate (%),
-,,,train(75% dataset),test(25% dataset)
-YALE(cropped),165,165,100,100
-AT&T(cropped),400,400,100,100
-5-celebrity-faces-dataset(cropped),117,117,100,100
+Dataset,Total images,Cropped images,accuracy (%),
+,,,train,test
+YALE(cropped/uncropped),165,165(N/A),100,100
+AT&T(cropped/uncropped)),400,400(N/A),100,100
+5-celebrity-faces-dataset(cropped/uncropped)),117,117(N/A),100,100
 YALE B+ (uncropped),16380,N/A,89.74,88.11
 YALE B+ (cropped),16380,12,96.77,96.06

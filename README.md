@@ -38,7 +38,8 @@ At the begin of 2 notebook, add:
 from google.colab import drive
 drive.mount('/content/drive')
 
-%cd gdrive/My Drive/project_folder/src
+%cd gdrive/My Drive/project_folder
+%cd src/
 ```
 
 Since GG colab have almost all the required library that we needed, we only need to install `mtcnn` at the beginning of `src/facenet_keras_preprocessing_and_embeddings.ipynb`:
